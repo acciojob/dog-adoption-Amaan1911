@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+img{
+	height:300px;
+}
+#poodle{
+	width:100vw;
+	height:500px;
+}
